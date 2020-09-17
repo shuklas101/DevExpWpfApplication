@@ -1,0 +1,158 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DevExpWpfApplication
+</name>
+</assembly>
+<members>
+<member name="M:DevExpWpfApplication.IdentificationTypeControl.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DevExpWpfApplication.IdentificationTypeControl">
+	<summary>
+IdentificationTypeControl
+</summary>
+</member><member name="M:DevExpWpfApplication.AddressControl.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DevExpWpfApplication.AddressControl">
+	<summary>
+AddressControl
+</summary>
+</member><member name="M:DevExpWpfApplication.XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)">
+	<summary>
+CreateInstance
+</summary>
+</member><member name="M:DevExpWpfApplication.XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)">
+	<summary>
+GetPropertyValue
+</summary>
+</member><member name="M:DevExpWpfApplication.XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)">
+	<summary>
+SetPropertyValue
+</summary>
+</member><member name="M:DevExpWpfApplication.XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)">
+	<summary>
+CreateDelegate
+</summary>
+</member><member name="M:DevExpWpfApplication.XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)">
+	<summary>
+AddEventHandler
+</summary>
+</member><member name="T:DevExpWpfApplication.XamlGeneratedNamespace.GeneratedInternalTypeHelper">
+	<summary>
+GeneratedInternalTypeHelper
+</summary>
+</member><member name="M:DevExpWpfApplication.AkaControl.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DevExpWpfApplication.AkaControl">
+	<summary>
+AkaControl
+</summary>
+</member><member name="M:DevExpWpfApplication.CustomerProfileControl.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DevExpWpfApplication.CustomerProfileControl">
+	<summary>
+CustomerProfileControl
+</summary>
+</member><member name="M:DevExpWpfApplication.NotesControl.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DevExpWpfApplication.NotesControl">
+	<summary>
+NotesControl
+</summary>
+</member><member name="M:DevExpWpfApplication.ContactControl.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DevExpWpfApplication.ContactControl">
+	<summary>
+ContactControl
+</summary>
+</member><member name="M:DevExpWpfApplication.SuspensionStatusControl.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DevExpWpfApplication.SuspensionStatusControl">
+	<summary>
+SuspensionStatusControl
+</summary>
+</member><member name="M:DevExpWpfApplication.Application.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:DevExpWpfApplication.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:DevExpWpfApplication.Application">
+	<summary>
+Application
+</summary>
+</member><member name="M:DevExpWpfApplication.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DevExpWpfApplication.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="M:DevExpWpfApplication.CreateNewRowWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DevExpWpfApplication.CreateNewRowWindow">
+	<summary>
+CreateNewRowWindow
+</summary>
+</member><member name="P:DevExpWpfApplication.My.MyWpfExtension.Application">
+	<summary>
+ Returns the application object for the running application
+ </summary>
+</member><member name="P:DevExpWpfApplication.My.MyWpfExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:DevExpWpfApplication.My.MyWpfExtension.User">
+	<summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member><member name="P:DevExpWpfApplication.My.MyWpfExtension.Log">
+	<summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member><member name="P:DevExpWpfApplication.My.MyWpfExtension.Windows">
+	<summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member><member name="T:DevExpWpfApplication.My.MyWpfExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+	<remarks></remarks>
+</member><member name="P:DevExpWpfApplication.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DevExpWpfApplication.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DevExpWpfApplication.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

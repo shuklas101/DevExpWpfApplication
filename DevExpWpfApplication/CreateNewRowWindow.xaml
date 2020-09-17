@@ -1,0 +1,30 @@
+﻿<dxc:DXWindow x:Class="CreateNewRowWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/core"
+        Title="CreateNewRowWindow" Height="199" Width="569">
+    <DockPanel LastChildFill="False">
+        <StackPanel DockPanel.Dock="Top">
+            <DockPanel>
+                <TextBlock Text="Contact Type" Width="118" />
+                <TextBox Name="ContactType" />
+            </DockPanel>
+            <DockPanel>
+                <TextBlock Text="Contact Information" Width="118" />
+                <TextBox Name="ContactInformation" />
+            </DockPanel>
+            <DockPanel>
+                <TextBlock Text="Preferred" Width="118" />
+                <TextBox Name="Preferred" />
+            </DockPanel>
+            <DockPanel>
+                <TextBlock Text="Effective Date" Width="118" />
+                <TextBox Name="EffectiveDate" />
+            </DockPanel>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Right" Orientation="Horizontal">
+            <Button IsDefault="True" Click="Button_Click" Width="55">OK</Button>
+            <Button IsCancel="True" Width="73">Cancel</Button>
+        </StackPanel>
+    </DockPanel>
+</dxc:DXWindow>

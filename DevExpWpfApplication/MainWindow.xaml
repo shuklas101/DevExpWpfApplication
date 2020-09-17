@@ -1,0 +1,20 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="768" Width="1149" xmlns:my="clr-namespace:DevExpWpfApplication" xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol" xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core">
+    <Grid>
+        <my:CustomerProfileControl x:Name="CustomerProfileControl1" />
+        <dx:DXTabControl Margin="12,100,4,43" Name="DXTabControl1">
+            <dx:DXTabItem Header="Personal Information" Name="DXTabItem1">
+                <Grid Height="538">
+                    <my:AddressControl Height="221" HorizontalAlignment="Left" x:Name="AddressControl1" VerticalAlignment="Top" Width="585" />
+                    <my:IdentificationTypeControl Height="221" HorizontalAlignment="Left" Margin="589,0,0,0" x:Name="IdentificationTypeControl1" VerticalAlignment="Top" Width="510" />
+                    <my:ContactControl Height="162" HorizontalAlignment="Left" Margin="0,227,0,0" x:Name="ContactControl1" VerticalAlignment="Top" Width="585" />
+                    <my:SuspensionStatusControl Height="122" HorizontalAlignment="Left" Margin="0,383,0,0" x:Name="SuspensionStatusControl1" VerticalAlignment="Top" Width="585" />
+                    <my:AkaControl Height="162" HorizontalAlignment="Left" Margin="585,227,0,0" x:Name="AkaControl1" VerticalAlignment="Top" Width="514" />
+                    <my:NotesControl Height="122" HorizontalAlignment="Left" Margin="586,383,0,0" x:Name="NotesControl1" VerticalAlignment="Top" Width="518" />
+                </Grid>
+            </dx:DXTabItem>
+        </dx:DXTabControl>
+    </Grid>
+</Window>

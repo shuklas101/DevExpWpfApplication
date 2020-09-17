@@ -1,0 +1,55 @@
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\bin\Debug\DevExpWpfApplication.exe
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\bin\Debug\DevExpWpfApplication.pdb
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\bin\Debug\DevExpWpfApplication.xml
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\MainWindow.baml
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\MainWindow.g.vb
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\Application.g.vb
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication_MarkupCompile.cache
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.g.resources
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.Resources.resources
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.exe
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.xml
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.pdb
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\AddressControl.baml
+C:\Users\georgeku\AppData\Local\Temporary Projects\DevExpWpfApplication\obj\x86\Debug\AddressControl.g.vb
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.exe
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.xml
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.pdb
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\bin\Debug\DevExpWpfApplication.exe
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\bin\Debug\DevExpWpfApplication.pdb
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\bin\Debug\DevExpWpfApplication.xml
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\AddressControl.baml
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\AddressControl.g.vb
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\MainWindow.g.vb
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\Application.g.vb
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication_MarkupCompile.cache
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication_MarkupCompile.lref
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\MainWindow.baml
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.g.resources
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.Resources.resources
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\georgeku\Documents\Visual Studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\IdentificationTypeControl.baml
+C:\Users\georgeku\Documents\Visual Studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\IdentificationTypeControl.g.vb
+C:\Users\georgeku\Documents\Visual Studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\DevExpWpfApplication.exe.licenses
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\ContactControl.baml
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\ContactControl.g.vb
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\CustomerProfileControl.baml
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\CustomerProfileControl.g.vb
+C:\Users\georgeku\Documents\Visual Studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\SuspensionStatusControl.baml
+C:\Users\georgeku\Documents\Visual Studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\SuspensionStatusControl.g.vb
+C:\Users\georgeku\Documents\Visual Studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\AkaControl.baml
+C:\Users\georgeku\Documents\Visual Studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\AkaControl.g.vb
+C:\Users\georgeku\Documents\Visual Studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\NotesControl.baml
+C:\Users\georgeku\Documents\Visual Studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\NotesControl.g.vb
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\CreateNewRowWindow.baml
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\obj\x86\Debug\CreateNewRowWindow.g.vb
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\georgeku\documents\visual studio 2010\Projects\DevExpWpfApplication\DevExpWpfApplication\bin\Debug\Microsoft.Windows.Design.Extensibility.xml

@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="CustomerProfileControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="96" d:DesignWidth="1157" xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol" xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="134*" />
+            <RowDefinition Height="166*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="296*" />
+            <ColumnDefinition Width="447*" />
+        </Grid.ColumnDefinitions>
+        <dxlc:LayoutControl Name="LayoutControl1" Grid.ColumnSpan="2" Grid.RowSpan="2">
+            <dxlc:LayoutGroup Name="LayoutGroup1" View="GroupBox">
+                <dxlc:LayoutItem Label="Customer Type" LabelPosition="Top" Name="LayoutItem1" Width="131">
+                    <dxe:ComboBoxEdit Name="CustomerTypeComboBoxEdit" />
+                </dxlc:LayoutItem>
+                <dxlc:LayoutItem Label="Last Name*" LabelPosition="Top" Name="LayoutItem2" Width="151">
+                    <dxe:TextEdit Name="TextEdit1" />
+                </dxlc:LayoutItem>
+                <dxlc:LayoutItem Label="First Name*" LabelHorizontalAlignment="Left" LabelPosition="Top" Name="LayoutItem3" Width="184">
+                    <dxe:TextEdit Height="22" Name="TextEdit2" Width="180" />
+                </dxlc:LayoutItem>
+                <dxlc:LayoutItem Label="Middle Name" LabelPosition="Top" Name="MiddleNameLayoutItem" Width="159">
+                    <dxe:TextEdit Height="22" Name="TextEdit3" Width="159" />
+                </dxlc:LayoutItem>
+                <dxlc:LayoutItem Label="Suffix" LabelPosition="Top" Name="SuffixLayoutItem" Width="91">
+                    <dxe:ComboBoxEdit Name="ComboBoxEdit1" />
+                </dxlc:LayoutItem>
+                <dxlc:LayoutItem Label="Date of Birth" LabelPosition="Top" Name="DoBLayoutItem" Width="110">
+                    <dxe:DateEdit Name="DateEdit1" />
+                </dxlc:LayoutItem>
+                <dxlc:LayoutItem Height="42" Label="Date of Death" LabelPosition="Top" Name="DoDLayoutItem" Width="114">
+                    <dxe:DateEdit Name="DateEdit2" />
+                </dxlc:LayoutItem>
+                <dxlc:LayoutItem Label="Gender*" LabelPosition="Top" Name="GenderLayoutItem" Width="115">
+                    <dxe:ComboBoxEdit Height="24" Name="ComboBoxEdit2" Width="110" />
+                </dxlc:LayoutItem>
+            </dxlc:LayoutGroup>
+        </dxlc:LayoutControl>
+    </Grid>
+</UserControl>
